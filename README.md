@@ -1,7 +1,8 @@
 AwesomeDB
 =========
+A curated list of amazingly awesome databse libraries, resources and shiny things.
 
-## Database
+
 
 *Databases implemented in Go.*
 
