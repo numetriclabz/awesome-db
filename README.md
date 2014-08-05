@@ -1,4 +1,4 @@
-AwesomeDB
+awesome - db
 =========
 A curated list of amazingly awesome databse libraries, resources and shiny things.
 
