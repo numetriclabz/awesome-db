@@ -25,6 +25,8 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
+* [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
+* [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
 * [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
  
 
