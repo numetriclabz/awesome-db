@@ -2,7 +2,7 @@ awesome - db
 =========
 A curated list of amazingly awesome databse libraries, resources and shiny things.
 
-## Closure
+## Clojure
 
  * [Datomic](http://www.datomic.com/)
  * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
@@ -18,7 +18,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [mongo](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
 * [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database
 * [twitter/mysql](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
-* [postgres](https://github.com/postgres/postgres) 
+* [postgres](https://github.com/postgres/postgres)
 * [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
 * [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
@@ -28,7 +28,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
 * [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
 * [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
- 
+
 
 ## dot-net
 
@@ -68,4 +68,3 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 
 ## Scala
 * [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
-
