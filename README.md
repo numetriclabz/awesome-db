@@ -37,6 +37,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 ## Erlang
 
 * [riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
+* [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
 
 ## Go-lang
 
