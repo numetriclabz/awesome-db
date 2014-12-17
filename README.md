@@ -64,7 +64,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 
 
 ## Javascript
-* [counchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
+* [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
 
 
 
