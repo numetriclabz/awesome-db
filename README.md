@@ -70,3 +70,6 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 
 ## Scala
 * [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
+
+## Research Papers
+* [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
