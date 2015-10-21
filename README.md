@@ -58,6 +58,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 ## JAVA
 * [cassandra](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
+* [lmdbjni](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 * [mapdb](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
 * [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
