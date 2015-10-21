@@ -33,6 +33,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 ## dot-net
 
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
+* [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
 ## Erlang
 
