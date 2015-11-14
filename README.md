@@ -5,7 +5,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 ## Clojure
 
  * [Datomic](http://www.datomic.com/)
- * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
+ * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
  * [cravendb](https://github.com/robashton/cravendb)
 
 ## C / CPP
@@ -15,7 +15,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
 * [memcache](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
 * [monetdb](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
-* [mongo](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
+* [mongo](https://github.com/mongodb/mongo) - The Mongo Database https://www.mongodb.org/
 * [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database
 * [twitter/mysql](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
 * [postgres](https://github.com/postgres/postgres)
@@ -25,7 +25,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
-* [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
+* [tokudb-engine](https://github.com/percona/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
 * [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
 * [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
 
@@ -45,7 +45,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-* [goleveldb](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
+* [goleveldb](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://github.com/google/leveldb) key/value database in the Go.
 * [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
@@ -57,10 +57,10 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 
 ## JAVA
 * [cassandra](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
-* [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
+* [elasticsearch](https://github.com/elastic/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](https://www.elastic.co/)
 * [lmdbjni](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 * [mapdb](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
-* [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
+* [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.com) is the world’s leading Graph Database.
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
 
@@ -72,7 +72,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 
 
 ## Scala
-* [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
+* [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.org/)
 
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
