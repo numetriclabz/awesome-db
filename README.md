@@ -1,4 +1,4 @@
-awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =========
 A curated list of amazingly awesome databse libraries, resources and shiny things.
 
@@ -63,6 +63,7 @@ A curated list of amazingly awesome databse libraries, resources and shiny thing
 * [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
+- [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
 
 
 ## Javascript
