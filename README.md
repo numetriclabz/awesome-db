@@ -28,6 +28,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
 * [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
 * [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
+* [arangodb](https://github.com/arangodb/arangodb) - A distributed multi-purpose NoSQL database with a flexible data model for documents, graphs, and key-values.
 
 
 ## dot-net
@@ -63,17 +64,23 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
-- [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
+* [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
 
 
 ## Javascript
 * [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
 * [mongodb](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
-
+* [pouchdb](https://github.com/pouchdb/pouchdb) - PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
 
 
 ## Scala
 * [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
+* [flockdb](https://github.com/twitter/flockdb) - A distributed, fault-tolerant graph database
+
+
+## Shell
+* [Riak](https://github.com/basho/riak) - Riak is a distributed, decentralized data storage system.
+
 
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
