@@ -78,9 +78,5 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [flockdb](https://github.com/twitter/flockdb) - A distributed, fault-tolerant graph database
 
 
-## Shell
-* [Riak](https://github.com/basho/riak) - Riak is a distributed, decentralized data storage system.
-
-
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
