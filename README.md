@@ -34,6 +34,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
+* [LiteDB](http://www.litedb.org/) - A .NET NoSQL Document Store in a single data file(like SQLite)
 
 ## Erlang
 
