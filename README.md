@@ -35,6 +35,10 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
+## Elixir
+
+* [Ecto](https://github.com/elixir-ecto/ecto) - Ecto is a domain specific language for writing queries and interacting with databases in Elixir.
+
 ## Erlang
 
 * [riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
