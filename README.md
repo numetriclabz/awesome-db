@@ -56,6 +56,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 
 ## JAVA
+- [axibase](https://github.com/axibase/tsd) - Axibase Time Series Database runs on HBase/Hadoop or HBase/AWS EMR [use cases](https://github.com/axibase/atsd-use-cases)
 * [cassandra](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
 * [lmdbjni](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
