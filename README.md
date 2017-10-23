@@ -23,6 +23,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
 * [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
+* [SiriDB](https://github.com/transceptor-technology/siridb-server) - Highly-scalable, robust and fast, open source time series database with cluster functionality http://siridb.net
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
