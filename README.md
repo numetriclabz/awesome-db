@@ -42,6 +42,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Go-lang
 
+* [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
 * [bolt](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
 * [diskv](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
