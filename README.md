@@ -64,6 +64,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
 - [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
+* [Warp 10](https://github.com/senx/warp10-platform) - The Most Advanced Time Series Platform https://warp10.io/. It has optional geo indexing support and a full-fledge programming language for time series queries.
 
 
 ## Javascript
