@@ -25,6 +25,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
+* [TDengine](https://github.com/taosdata/TDengine) - TDengine is an open-source big data platform designed and optimized for Internet of Things (IoT), Connected Vehicles, and Industrial IoT. Besides the 10x faster time-series database, it provides caching, stream computing, message queuing and other functionalities to reduce the complexity and costs of development and operations.
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
 * [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
 * [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
