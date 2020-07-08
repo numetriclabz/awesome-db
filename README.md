@@ -69,6 +69,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## Javascript
 * [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
 * [mongodb](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
+* [Deta Base](https://deta.sh) - Deta Base is a super easy to use production-grade NoSQL database. It supports complex queries and search.
 
 
 
