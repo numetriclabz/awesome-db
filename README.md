@@ -52,6 +52,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [roshi](https://github.com/soundcloud/roshi/) - Roshi is a large-scale CRDT set implementation for timestamped events.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
+* [weaviate](https://github.com/semi-technologies/weaviate) - Semantic search engine based on GraphQL and build in (word) embeddings.
 
 
 
