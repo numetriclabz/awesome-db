@@ -3,7 +3,6 @@
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
 
 ## Clojure
-
  * [Datomic](http://www.datomic.com/)
  * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
  * [cravendb](https://github.com/robashton/cravendb)
@@ -69,7 +68,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## Javascript
 * [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
 * [mongodb](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
-
+* [assassin](https://github.com/genderev/assassin) - Assassin is a blazing fast, decentralized, NoSQL key-value store designed for use with [web workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers) in the browser.
 
 
 ## Scala
