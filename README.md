@@ -2,6 +2,10 @@
 =========
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
 
+## Arturo
+
+ * [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database
+ 
 ## Clojure
 
  * [Datomic](http://www.datomic.com/)
