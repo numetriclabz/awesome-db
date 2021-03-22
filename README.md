@@ -77,3 +77,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+
+## Haskell
+* [HStreamDB](https://github.com/hstreamdb/hstream) - The streaming database built for IoT data storage and real-time processing.
+
