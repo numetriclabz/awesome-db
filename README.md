@@ -28,6 +28,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
 * [TokuMX](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
 * [VoltDB](https://github.com/VoltDB/voltdb/) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
+* [BerylDB](https://github.com/beryldb/beryldb) - BerylDB, a modular key-value database.
 
 
 ## dot-net
