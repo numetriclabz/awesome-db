@@ -64,7 +64,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
 - [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
-
+* [QuestDB](https://questdb.io/) - High-performance, open-source SQL database for applications in financial services, IoT, machine learning, DevOps and observability.
 
 ## Javascript
 * [couchdb](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
