@@ -49,7 +49,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * [ledisdb](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
-* [milvus](https://github.com/milvus-io/milvus) - Vector database for scalable similarity search and AI applications..
+- [Milvus](https://github.com/milvus-io/milvus#readme) - A cloud-native vector database with high-performance and high scalability.
 * [roshi](https://github.com/soundcloud/roshi/) - Roshi is a large-scale CRDT set implementation for timestamped events.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
 * [tiedot](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
