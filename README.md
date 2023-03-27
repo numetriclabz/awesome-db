@@ -39,6 +39,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 * [riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 * [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
+* [Polybase](https://polybase.xyz) - Polybase is a decentralized database that's a drop-in replacement for Firebase, Supabase etc.
 
 ## Go-lang
 
