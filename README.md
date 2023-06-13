@@ -55,8 +55,6 @@
 
 - [Neo4j](https://github.com/neo4j/neo4j) - : An open-source, NoSQL, native graph database that provides an ACID-compliant transactional backend for your applications. Known for its high performance, scalability, and flexibility.
 
-### Vector
-
 ## Research Papers
 
 - [DB-Readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
