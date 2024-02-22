@@ -12,7 +12,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [Aerospike](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
 * [Alchemy-Database](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
 * [cstore_fdw](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
-* [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
+* [LMDB](http://symas.com/lmdb/) - Very fast embedded key/value store with full ACID semantics.
 * [memcache](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
 * [monetdb](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
 * [mongo](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
