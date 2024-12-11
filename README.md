@@ -2,6 +2,13 @@
 =========
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
 
+## Ballerina
+
+* [ballerinax/java.jdbc](https://github.com/ballerina-platform/module-ballerinax-java.jdbc) - Official Ballerina library for JDBC 
+* [ballerinax/mssql](https://github.com/ballerina-platform/module-ballerinax-mssql) - Official Ballerina library for MSSQL database
+* [ballerinax/mysql](https://github.com/ballerina-platform/module-ballerinax-mysql) - Official Ballerina library for MySQL database
+* [ballerinax/oracledb](https://github.com/ballerina-platform/module-ballerinax-oracledb) - Official Ballerina library for OracleDB
+
 ## Clojure
 
  * [Datomic](http://www.datomic.com/)
