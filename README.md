@@ -64,6 +64,8 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
 - [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
+- [FalkorDB](https://github.com/falkordb/falkordb) - [FalkorDB](http://www.falkordb.com) A low-latency, and scalable graph database optimized for real-time analytics and AI-driven applications.
+
 
 
 ## Javascript
