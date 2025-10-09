@@ -11,6 +11,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## C / CPP
 * [Aerospike](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
 * [Alchemy-Database](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
+* [ContextLite](https://github.com/itsrobli/contextlite) - SMT-powered database search optimization tool with advanced query performance analysis
 * [cstore_fdw](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
 * [memcache](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
