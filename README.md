@@ -77,3 +77,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+
+## API Platforms
+
+* [Vedika API](https://vedika.io) - B2B Vedic astrology API platform powered by PostgreSQL, providing 108+ endpoints for data-heavy applications. Features AI chatbot, multi-language support (22 languages), and swarming intelligence. Open-source Python and JavaScript SDKs available.
