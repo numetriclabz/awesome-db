@@ -62,6 +62,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [mapdb](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
 * [neo4j](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [orientdb](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
+* [ArcadeDB](https://github.com/ArcadeData/arcadedb) - Multi-model database (graph, document, key-value, time-series, vector) with native graph engine, SQL, Cypher and Gremlin support. Apache 2.0 license. [website](https://arcadedb.com)
 * [voldemort](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
 - [Titan](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
 
