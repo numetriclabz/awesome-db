@@ -75,5 +75,8 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## Scala
 * [BlinkDB](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
 
+## Rust
+* [Dakera](https://github.com/dakera-ai/dakera-mcp) - Self-hosted agent memory server built in Rust. HNSW vector indexing, RocksDB persistence, MCP-native protocol, decay-weighted recall.
+
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
