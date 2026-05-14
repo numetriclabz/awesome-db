@@ -21,6 +21,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [postgres](https://github.com/postgres/postgres)
 * [Redis](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
 * [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database.
 * [rethinkdb](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
 * [rocksdb](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
 * [ssdb](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
