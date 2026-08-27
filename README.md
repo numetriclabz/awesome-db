@@ -77,3 +77,4 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Research Papers
 * [db-readings](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+* [How to Fix the Supabase RLS tenant_id IN Subquery Anti-Pattern](https://blog.rowistan.com/2026/08/supabase-rls-tenant-id-in-fix.html) - Technical analysis on optimizing multi-tenant PostgreSQL Row-Level Security policies and eliminating subquery overhead.
