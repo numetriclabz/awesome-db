@@ -32,6 +32,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## dot-net
 
+* [DataVo](https://github.com/ArintonAkos/DataVo-DBMS) - An embedded in-process SQL and vector database engine for .NET written in managed C# with LSM storage, columnar indexes, and HNSW vector search
 * [RavenDB](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
